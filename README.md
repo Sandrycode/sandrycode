@@ -37,6 +37,7 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 
   <hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
 
+
   ## 🛠️ Tecnologías que utilizo
 
    <p align="center">
@@ -51,6 +52,8 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 👉 LinkedIn: www.linkedin.com/in/sandra-munoz-munoz
 
 
+<br>
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>
+
 
 
