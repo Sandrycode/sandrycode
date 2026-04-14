@@ -35,6 +35,10 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 - ✈️ **Routes of the Heart** — HTML + CSS   
   🔗 https://sandrycode.github.io/routesoftheheart
 
+  <hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
+
+  ## 🛠️ Tecnologías que utilizo
+
    <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,wordpress,mysql,postgres,git,github&theme=light" />
 </p>
@@ -45,4 +49,7 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 
 ## 🔗 Más sobre mí
 👉 LinkedIn: www.linkedin.com/in/sandra-munoz-munoz
+
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
+
 
