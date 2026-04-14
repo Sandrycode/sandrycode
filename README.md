@@ -9,7 +9,7 @@ Soy Sandra, desarrolladora web Full Stack con una mentalidad muy clara: crear so
 Me caracterizo por:
 
 - 🧩 **Pensamiento lógico y enfoque práctico**: disfruto resolviendo problemas y dejando todo claro y ordenado.  
-- 🎨 **Cuidado por la experiencia de usuario**: no solo programo; pienso en cómo se siente quien usa la web.  
+- 🎨 **Cuidado por la experiencia de usuario**: no solo programo, también pienso en cómo se siente quien usa la web.
 - 🚀 **Aprendizaje constante**: siempre estoy mejorando mis habilidades y explorando nuevas tecnologías.  
 - 🤝 **Responsabilidad y compromiso**: cuando empiezo un proyecto, lo llevo hasta el final con calidad y detalle.  
 - 🔧 **Capacidad para adaptarme rápido**: si surge un problema, lo analizo, lo entiendo y lo soluciono.
