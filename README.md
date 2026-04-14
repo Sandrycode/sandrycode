@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=4CAF50&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Sandra+👋;Desarrolladora+Web+Full+Stack;Construyendo+soluciones+claras%2C+funcionales+y+eficientes;Bienvenido+a+mi+GitHub+🌿" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=4CAF50&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Sandra+👋;Desarrolladora+Web+Full+Stack;Bienvenido+a+mi+GitHub+🌿" />
 </h1>
 
 ## ✨ Sobre mí
