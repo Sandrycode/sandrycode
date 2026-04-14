@@ -41,13 +41,7 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 - ✈️ **Routes of the Heart** — HTML + CSS   
   🔗 https://sandrycode.github.io/routesoftheheart  
 
-  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
-</p>
-
- 
+   
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
@@ -64,9 +58,7 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
 </p>
 
-## 💡 Sobre mí
-Soy una desarrolladora web organizada, resolutiva y orientada a la calidad. Me gusta crear soluciones claras, funcionales y bien estructuradas, siempre con un enfoque práctico y profesional.
 
 ## 🔗 Más sobre mí
-👉 LinkedIn: https://www.linkedin.com/in/sandrycode
+👉 LinkedIn: www.linkedin.com/in/sandra-munoz-munoz
 
