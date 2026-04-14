@@ -40,9 +40,7 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
-</p>
+<hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
 
 
 ## 🔗 Más sobre mí
