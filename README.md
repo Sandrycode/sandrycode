@@ -17,9 +17,7 @@ Me caracterizo por:
 Mi objetivo es seguir creciendo como desarrolladora, aportar valor en cada proyecto y construir aplicaciones que realmente ayuden a las personas.
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,wordpress,mysql,postgres,git,github&theme=light" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
@@ -39,7 +37,11 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
   🔗 https://sostenibilidad-app.onrender.com  
 
 - ✈️ **Routes of the Heart** — HTML + CSS   
-  🔗 https://sandrycode.github.io/routesoftheheart  
+  🔗 https://sandrycode.github.io/routesoftheheart
+
+   <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,wordpress,mysql,postgres,git,github&theme=light" />
+</p>
 
    
 
