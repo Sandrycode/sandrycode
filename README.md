@@ -14,9 +14,7 @@ Me caracterizo por:
 - 🤝 **Responsabilidad y compromiso**: cuando empiezo un proyecto, lo llevo hasta el final con calidad y detalle.  
 - 🔧 **Capacidad para adaptarme rápido**: si surge un problema, lo analizo, lo entiendo y lo soluciono.
 
-<p style="white-space: nowrap;">
-Mi objetivo es seguir creciendo como desarrolladora, aportar valor en cada proyecto y construir aplicaciones que realmente ayuden a las personas.
-</p>
+Quiero seguir creciendo como desarrolladora y crear proyectos que marquen una diferencia en las personas.
 
 <hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
 
