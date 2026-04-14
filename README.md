@@ -43,18 +43,6 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,wordpress,mysql,postgres,git,github&theme=light" />
 </p>
 
-   
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
-</p>
-
-## 📊 Estadísticas de GitHub (animadas y visuales)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandrycode&show_icons=true&theme=vue&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrycode&layout=compact&theme=vue&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
