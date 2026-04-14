@@ -50,6 +50,7 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 ## 🔗 Más sobre mí
 👉 LinkedIn: www.linkedin.com/in/sandra-munoz-munoz
 
+
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>
 
 
