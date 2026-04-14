@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=4CAF50&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Sandra+👋;Desarrolladora+Web+Full+Stack;Construyendo+soluciones+claras%2C+funcionales+y+eficientes;Bienvenido+a+mi+GitHub+🌿" />
+</h1>
 
-<!--
-**Sandrycode/sandrycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,wordpress,mysql,postgres,git,github&theme=light" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos en producción
+Accede directamente a mis proyectos activos. Cada uno incluye su propio README con detalles completos:
+
+- 🌿 **Sostenibilidad App** — Django + PostgreSQL  
+  🔗 https://sostenibilidad-app.onrender.com  
+
+- ☕ **The Coffee House**  
+  🔗 https://sandrycode.github.io/thecoffeehouse  
+
+- ✈️ **Routes of the Heart**  
+  🔗 https://sandrycode.github.io/routesoftheheart  
+
+- 💗 **Pura Calma**  
+  🔗 https://sandrycode.github.io/puracalma/  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
+</p>
+
+## 🛠️ Tecnologías que utilizo
+**Front‑end:** HTML5 · CSS3 · JavaScript  
+**Back‑end:** PHP · Python · Django  
+**Bases de datos:** MySQL · PostgreSQL  
+**CMS:** WordPress · Elementor · WooCommerce  
+**Herramientas:** MySQL Workbench · Render · Git · GitHub  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
+</p>
+
+## 📊 Estadísticas de GitHub (animadas y visuales)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandrycode&show_icons=true&theme=vue&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrycode&layout=compact&theme=vue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
+</p>
+
+## 💡 Sobre mí
+Soy una desarrolladora web organizada, resolutiva y orientada a la calidad. Me gusta crear soluciones claras, funcionales y bien estructuradas, siempre con un enfoque práctico y profesional.
+
+## 🔗 Más sobre mí
+👉 LinkedIn: https://www.linkedin.com/in/sandrycode
+
