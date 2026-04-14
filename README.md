@@ -16,12 +16,8 @@ Me caracterizo por:
 
 Mi objetivo es seguir creciendo como desarrolladora, aportar valor en cada proyecto y construir aplicaciones que realmente ayuden a las personas.
 
+<hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
- </p>
 
 ## 🚀 Proyectos en producción
 Accede directamente a mis proyectos activos. Cada uno incluye su propio README con detalles completos:
