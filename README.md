@@ -18,10 +18,8 @@ Mi objetivo es seguir creciendo como desarrolladora, aportar valor en cada proye
 
 <hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
 
-
 ## 🚀 Proyectos en producción
 Accede directamente a mis proyectos activos. Cada uno incluye su propio README con detalles completos:
-
 
 - 💗 **Pura Calma** — HTML + CSS + JavaScript + PHP + SQL  
   🔗 https://sandrycode.github.io/puracalma/
@@ -35,25 +33,19 @@ Accede directamente a mis proyectos activos. Cada uno incluye su propio README c
 - ✈️ **Routes of the Heart** — HTML + CSS   
   🔗 https://sandrycode.github.io/routesoftheheart
 
-  <hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
+<hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
 
+## 🛠️ Tecnologías que utilizo
 
-  ## 🛠️ Tecnologías que utilizo
-
-   <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,django,wordpress,mysql,postgres,git,github&theme=light" />
 </p>
 
-
 <hr style="border: 1px solid #4CAF50; width: 80%; margin: auto;" />
-
 
 ## 🔗 Más sobre mí
 👉 LinkedIn: www.linkedin.com/in/sandra-munoz-munoz
 
-
 <br>
+
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>
-
-
-
